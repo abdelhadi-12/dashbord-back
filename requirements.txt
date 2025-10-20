@@ -4,7 +4,7 @@ uvicorn[standard]==0.30.6
 # stack data/ML compatibles
 numpy==2.1.0
 scipy==1.14.1
-pandas==2.2.2
+pandas== 2.2.3
 scikit-learn==1.4.2
 
 pyarrow==14.0.2
